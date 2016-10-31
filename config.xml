@@ -16,5 +16,7 @@
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
         Christophe Coenraets
     </author>
+        
+    <icon src="icon.png" />
 
 </widget>
